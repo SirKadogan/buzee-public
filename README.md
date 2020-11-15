@@ -53,11 +53,39 @@ The project was cancelled after about a year of existence since we had trouble m
 
 ### :camera: Preview
 
-<img src='./assets/Login.jpeg' width=200>
-<img src='./assets/Onboarding.jpeg' width=200>
-<img src='./assets/MainScreen.jpeg' width=200>
-<img src='./assets/SideMenu.jpeg' width=200>
-<img src='./assets/BusTime.jpeg' width=200>
-<img src='./assets/LocationShare.jpeg' width=200>
-<img src='./assets/Profile.jpeg' width=200>
-<img src='./assets/SpottedBuzee.jpeg' width=200>
+<table>
+  <tr>
+    <td>Login screen</td>
+     <td>Onboarding</td>
+     <td>Main Screen</td>
+  </tr>
+  <tr>
+    <td><img src='./assets/Login.jpeg' width=200></td>
+    <td><img src='./assets/Onboarding.jpeg' width=200></td>
+    <td><img src='./assets/MainScreen.jpeg' width=200></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Side Menu</td>
+     <td>Bus times at a stop</td>
+     <td>Location share screen</td>
+  </tr>
+  <tr>
+    <td><img src='./assets/SideMenu.jpeg' width=200></td>
+    <td><img src='./assets/BusTime.jpeg' width=200></td>
+    <td><img src='./assets/LocationShare.jpeg' width=200></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Profile Screen</td>
+    <td>Forum</td>
+  </tr>
+  <tr>
+    <td><img src='./assets/Profile.jpeg' width=200></td>
+    <td><img src='./assets/SpottedBuzee.jpeg' width=200></td>
+  </tr>
+</table>
