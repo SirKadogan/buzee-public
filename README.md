@@ -1,6 +1,6 @@
 # Buzee
 
-Buzee was the first mobile app I ever built and is by far the <b>largest</b>. It had many features, the startup built around it was incubated and received many prizes.
+Buzee was the first mobile app I ever built and it is by far the <b>largest</b>. It had many features and the startup built around it was incubated and received many prizes.
 
 Buzee was a "Waze for buses". The idea was that people could share their live location anonymously while riding a bus, thus letting other people know where the bus was and how long it would take to reach each bus stop along the line.
 
