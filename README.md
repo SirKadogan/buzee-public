@@ -6,7 +6,7 @@ Buzee was a "Waze for buses". The idea was that people could share their live lo
 
 We built a community around it so people actually shared their location, rated services and could report several events that could cause delays, for example.
 
-The project was cancelled after about a year of existence since we had trouble monetizing it and we were working full time.
+The project was cancelled after about two years of existence since we had trouble monetizing it and we were working full time.
 
 > :exclamation: Since this app was built for commercial use, the repository is private. Ask me if you want to checkout the code.
 
